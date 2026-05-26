@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	From MRI Checklist: Participant could not complete previous MRI scan on 5/X/23 due to claustrophobia, was able to complete scan today with the help of an anxiolytic (Alprazolam). Participant was able to stay awake and focus on cross for rsfMRI. Movie played during the rest of scan. | No hippo high res because there was not enough time	HML0011/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-hippo_T2w.json json file not found. |	Ingenia Elition X	5.7.1

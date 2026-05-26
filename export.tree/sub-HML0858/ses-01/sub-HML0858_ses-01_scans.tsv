@@ -1,0 +1,17 @@
+filename	acq_time
+anat/sub-HML0858_ses-01_rec-defaced_T1w.nii.gz	2025-04-05T08:03:43.095000
+dwi/sub-HML0858_ses-01_dwi.nii.gz	2025-04-05T08:09:59.247500
+fmap/sub-HML0858_ses-01_dir-PA_epi.nii.gz	2025-04-05T08:19:10.557500
+perf/sub-HML0858_ses-01_acq-prod_m0scan.nii.gz	2025-04-05T08:31:22.012500
+perf/sub-HML0858_ses-01_acq-prod_asl.nii.gz	2025-04-05T08:33:20.300000
+anat/sub-HML0858_ses-01_rec-defaced_FLAIR.nii.gz	2025-04-05T08:41:35.810000
+anat/sub-HML0858_ses-01_rec-defaced_echo-1_part-mag_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-1_part-phase_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-2_part-mag_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-2_part-phase_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-3_part-mag_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-3_part-phase_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-4_part-mag_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-4_part-phase_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-5_part-mag_T2starw.nii.gz	2025-04-05T08:46:57.692500
+anat/sub-HML0858_ses-01_rec-defaced_echo-5_part-phase_T2starw.nii.gz	2025-04-05T08:46:57.692500

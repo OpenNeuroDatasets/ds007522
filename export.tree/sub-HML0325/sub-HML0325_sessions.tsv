@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	CPU 1/X/2024: This SESSION001 taken on same day as SESSION002 after System crash and reboot. RSFMRI, PASL, FLAIR and ME GRE available in SESSION002 | From Email &gt; The scanner crashed during the start of the resting state. We had to restart the exam and the system will not allow us to use anything from the previous session after a reboot. | All BIDS Files have been consolidated into this session from both DICOM Sessions.	n/a	Skyra	syngo MR E11
