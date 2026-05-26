@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	DWI RPE acquired in wrong direction. Trying to schedule a SESSION002 to obtain DWI again with RPE in right direction.	/nifti/BIDSQC-AACAZ/currjson/sub-HML0350_ses-01_acq-fmri_dir-PA_epi.json::PhaseEncodingDirection is *DIFFERENT*: j j- |	Skyra	syngo MR E11

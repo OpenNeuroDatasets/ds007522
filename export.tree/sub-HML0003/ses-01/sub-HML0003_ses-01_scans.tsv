@@ -1,8 +1,0 @@
-filename	acq_time
-anat/sub-HML0003_ses-01_rec-defaced_T1w.nii.gz	2023-02-07T12:19:48.930000
-dwi/sub-HML0003_ses-01_dwi.nii.gz	2023-02-07T12:26:49.600000
-fmap/sub-HML0003_ses-01_dir-PA_epi.nii.gz	2023-02-07T12:35:27.290000
-func/sub-HML0003_ses-01_task-rest_bold.nii.gz	2023-02-07T12:37:43.130000
-perf/sub-HML0003_ses-01_acq-pcasl_asl.nii.gz	2023-02-07T12:49:00.110000
-perf/sub-HML0003_ses-01_acq-pcasl_m0scan.nii.gz	2023-02-07T12:55:18.370000
-anat/sub-HML0003_ses-01_rec-defaced_FLAIR.nii.gz	2023-02-07T12:56:16.920000
