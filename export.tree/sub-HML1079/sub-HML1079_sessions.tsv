@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	Subject has 3 times more files than they should however these are exact duplicates and thus are effectively ignored during nifti conversion. The M0 scan however was acquired twice. The first acquisition has three volumes. The 2nd acquisition with 4 volumes has been selected.	n/a	MAGNETOM Prisma Fit	syngo MR XA30

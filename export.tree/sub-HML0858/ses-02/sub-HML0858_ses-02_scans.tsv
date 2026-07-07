@@ -1,0 +1,5 @@
+filename	acq_time
+anat/sub-HML0858_ses-02_rec-defaced_T1w.nii.gz	2025-04-20T11:21:47.017500
+dwi/sub-HML0858_ses-02_dwi.nii.gz	2025-04-20T11:27:37.435000
+fmap/sub-HML0858_ses-02_dir-PA_epi.nii.gz	2025-04-20T11:37:10.130000
+func/sub-HML0858_ses-02_task-rest_bold.nii.gz	2025-04-20T11:39:51.740000

@@ -1,0 +1,17 @@
+filename	acq_time
+func/sub-HML0060_ses-01_task-rest_bold.nii.gz	2023-01-20T11:23:18.035000
+anat/sub-HML0060_ses-01_rec-defaced_FLAIR.nii.gz	2023-01-20T11:34:07.037500
+anat/sub-HML0060_ses-01_rec-defaced_T1w.nii.gz	2023-01-20T11:41:40.165000
+anat/sub-HML0060_ses-01_rec-defaced_echo-1_part-mag_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-2_part-mag_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-3_part-mag_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-4_part-mag_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-5_part-mag_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-1_part-phase_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-2_part-phase_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-3_part-phase_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-4_part-phase_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_rec-defaced_echo-5_part-phase_T2starw.nii.gz	2023-01-20T11:47:44.997500
+anat/sub-HML0060_ses-01_acq-hippo_T2w.nii.gz	2023-01-20T11:56:48.117500
+perf/sub-HML0060_ses-01_acq-prod_m0scan.nii.gz	2023-01-20T12:02:16.315000
+perf/sub-HML0060_ses-01_acq-prod_asl.nii.gz	2023-01-20T12:03:33.260000
