@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	Resting state fMRI not available for this session. Although flagged by QC process Repetition Times for PASL have not changed. Header contains erroneous information. Images were transferred for this session in interoperability mode which is unwieldy. Used 2B_Config.json to perform BIDS conversion as GRE had different protocol name	HML0115/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_task-rest_bold.json json file not found. |	MAGNETOM Vida	syngo MR XA20
