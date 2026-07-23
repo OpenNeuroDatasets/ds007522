@@ -1,0 +1,13 @@
+filename	acq_time
+anat/sub-HML0204_ses-follow02_rec-defaced_T1w.nii.gz	2026-02-14T13:13:54.702500
+perf/sub-HML0204_ses-follow02_acq-pcasl3000_dir-PA_m0scan.nii.gz	2026-02-14T13:20:44.275000
+perf/sub-HML0204_ses-follow02_acq-pcasl3000_dir-AP_m0scan.nii.gz	2026-02-14T13:21:59.235000
+perf/sub-HML0204_ses-follow02_acq-pcasl1260_dir-AP_asl.nii.gz	2026-02-14T13:23:13.522500
+perf/sub-HML0204_ses-follow02_acq-pcasl1500_dir-PA_asl.nii.gz	2026-02-14T13:24:28.745000
+perf/sub-HML0204_ses-follow02_acq-pcasl1800_dir-AP_asl.nii.gz	2026-02-14T13:25:45.047500
+perf/sub-HML0204_ses-follow02_acq-pcasl2100_dir-PA_asl.nii.gz	2026-02-14T13:27:00.350000
+perf/sub-HML0204_ses-follow02_acq-pcasl2500_dir-AP_asl.nii.gz	2026-02-14T13:28:16.765000
+perf/sub-HML0204_ses-follow02_acq-pcasl3000_dir-PA_asl.nii.gz	2026-02-14T13:29:32.257500
+fmap/sub-HML0204_ses-follow02_magnitude1.nii.gz	2026-02-14T13:30:41.997500
+fmap/sub-HML0204_ses-follow02_magnitude2.nii.gz	2026-02-14T13:30:41.997500
+fmap/sub-HML0204_ses-follow02_phasediff.nii.gz	2026-02-14T13:30:42.625000

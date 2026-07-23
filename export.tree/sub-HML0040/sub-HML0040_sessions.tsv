@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	the participant &apos;emergency stopped&apos;, because they needed to cough, during the DTI scans. You&apos;ll notice some duplicates of the DTI. once they let out their cough and were repositioned, the DTI sequences were restarted. All other scans should be done with no issues.	n/a	MAGNETOM Prisma Fit	syngo MR XA30
