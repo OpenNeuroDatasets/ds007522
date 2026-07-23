@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	artifact was observed on the Axial 3D ME T2 GRE scan. We chose to re-run that scan. Due to the re-run we did not have time for the hippocampus scan.	HML0218/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-hippo_T2w.json json file not found. |	MAGNETOM Prisma Fit	syngo MR XA30
