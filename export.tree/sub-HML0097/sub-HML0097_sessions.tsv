@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	6/X/2023 CPU: DWI RPE obtained in wrong direction. Need to obtain a second session with the DWI and DWI RPE in the right direction. | 6/X/2023 CPU: From email correspondence - This participant has declined to come in for an additional MRI (They were a bit more noise sensitive then they thought).	/nifti/BIDSQC-AACAZ/currjson/sub-HML0097_ses-01_acq-fmri_dir-PA_epi.json::PhaseEncodingDirection is *DIFFERENT*: j j- |	Skyra	syngo MR E11

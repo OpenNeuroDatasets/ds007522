@@ -1,0 +1,8 @@
+filename	acq_time
+anat/sub-HML1059_ses-01_rec-defaced_T1w.nii.gz	2025-08-25T09:44:41.832500
+dwi/sub-HML1059_ses-01_dwi.nii.gz	2025-08-25T09:50:29.692500
+fmap/sub-HML1059_ses-01_dir-PA_epi.nii.gz	2025-08-25T09:59:26.815000
+func/sub-HML1059_ses-01_task-rest_bold.nii.gz	2025-08-25T10:00:38.642500
+perf/sub-HML1059_ses-01_acq-prod_m0scan.nii.gz	2025-08-25T10:11:09.067500
+perf/sub-HML1059_ses-01_acq-prod_asl.nii.gz	2025-08-25T10:13:28.225000
+anat/sub-HML1059_ses-01_rec-defaced_FLAIR.nii.gz	2025-08-25T10:22:10.150000
