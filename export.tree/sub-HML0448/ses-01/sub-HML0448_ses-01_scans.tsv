@@ -1,7 +1,0 @@
-filename	acq_time
-dwi/sub-HML0448_ses-01_dwi.nii.gz	2024-06-09T15:03:51.872500
-fmap/sub-HML0448_ses-01_dir-PA_epi.nii.gz	2024-06-09T15:12:52.472500
-func/sub-HML0448_ses-01_task-rest_bold.nii.gz	2024-06-09T15:15:00.992500
-perf/sub-HML0448_ses-01_acq-prod_m0scan.nii.gz	2024-06-09T15:26:23.095000
-perf/sub-HML0448_ses-01_acq-prod_asl.nii.gz	2024-06-09T15:28:26.580000
-anat/sub-HML0448_ses-01_rec-defaced_T1w.nii.gz	2024-06-09T15:37:15.652500

@@ -1,3 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	n/a	n/a	Skyra	syngo MR E11
-ses-follow01	n/a	/nifti/BIDSQC-AACAZ/currjson/sub-HML0319_ses-follow01_dir-PA_epi.json::PhaseEncodingDirection is *DIFFERENT*: j j- |	MAGNETOM Skyra	syngo MR XA30
