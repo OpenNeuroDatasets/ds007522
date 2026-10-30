@@ -1,0 +1,3 @@
+filename	acq_time	scan_exclusion_reason
+perf/sub-HML0819_ses-01_acq-prod_m0scan.nii.gz	2025-04-01T14:31:05.570000	cgain_incorrect
+perf/sub-HML0819_ses-01_acq-prod_asl.nii.gz	2025-04-01T14:33:24.232500	no_valid_m0

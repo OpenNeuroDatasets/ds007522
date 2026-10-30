@@ -1,0 +1,14 @@
+filename	acq_time
+anat/sub-HML0509_ses-02_rec-defaced_T1w.nii.gz	2024-07-14T16:47:10.572500
+perf/sub-HML0509_ses-02_acq-prod_m0scan.nii.gz	2024-07-14T16:53:05.260000
+perf/sub-HML0509_ses-02_acq-prod_asl.nii.gz	2024-07-14T16:54:22.542500
+anat/sub-HML0509_ses-02_rec-defaced_echo-1_part-mag_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-2_part-mag_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-3_part-mag_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-4_part-mag_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-5_part-mag_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-1_part-phase_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-2_part-phase_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-3_part-phase_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-4_part-phase_T2starw.nii.gz	2024-07-14T17:00:31.995000
+anat/sub-HML0509_ses-02_rec-defaced_echo-5_part-phase_T2starw.nii.gz	2024-07-14T17:00:31.995000
