@@ -1,0 +1,5 @@
+filename	acq_time
+dwi/sub-HML1310_ses-01_dwi.nii.gz	2026-06-21T15:01:16.070000
+fmap/sub-HML1310_ses-01_dir-PA_epi.nii.gz	2026-06-21T15:10:15.310000
+func/sub-HML1310_ses-01_task-rest_bold.nii.gz	2026-06-21T15:12:20.077500
+anat/sub-HML1310_ses-01_rec-defaced_T1w.nii.gz	2026-06-21T15:32:13.100000
