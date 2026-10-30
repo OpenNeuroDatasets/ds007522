@@ -1,0 +1,3 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	n/a	n/a	Skyra	syngo MR E11
+ses-follow01	A slight difference in the fMRI protocol from normal -&gt; | EchoTrainLength changed from 43 to 45 | Dimensions changed from 88:88:63:300 to 88:90:63:300 (increase by 2 in 2nd dimension) |	/nifti/BIDSQC-AACAZ/currjson/sub-HML0225_ses-follow01_task-rest_bold.json::EchoTrainLength is *DIFFERENT*: 43 45 | ses-FOLLOW001_task-rest_bold dimensions are *DIFFERENT*reference> 88:88:63:300current> 88:90:63:300 |	MAGNETOM Skyra	syngo MR XA30
