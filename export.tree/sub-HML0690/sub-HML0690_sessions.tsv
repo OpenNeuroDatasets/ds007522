@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	First subject after XA30 upgrade. | ASL and M0Scan Dicoms sent in classic mode and so Repetition time retrieved by dcm2niix is wrong (24s instead of 4s) -&gt; will force to 4s in BIDS conversion	n/a	MAGNETOM Skyra	syngo MR XA30
