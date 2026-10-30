@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	Slight change in some acquisition parameters: | DTI MB 3SHELL RPE: EchoTrainLength is *DIFFERENT*: 57 63 | RsFMRI: EchoTrainLength is *DIFFERENT*: 45 49 |	/nifti/BIDSQC-AACAZ/currjson/sub-HML1116_ses-01_dir-PA_epi.json::EchoTrainLength is *DIFFERENT*: 57 63 | /nifti/BIDSQC-AACAZ/currjson/sub-HML1116_ses-01_task-rest_bold.json::EchoTrainLength is *DIFFERENT*: 45 49 |	Ingenia Elition X	5.7.1

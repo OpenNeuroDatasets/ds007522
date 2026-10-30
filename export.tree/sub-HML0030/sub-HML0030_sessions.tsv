@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	n/a	/nifti/BIDSQC-AACAZ/currjson/sub-HML0030_ses-01_rec-defaced_T1w.json::EchoTrainLength is *DIFFERENT*: 256 255 |	Ingenia Elition X	5.7.1

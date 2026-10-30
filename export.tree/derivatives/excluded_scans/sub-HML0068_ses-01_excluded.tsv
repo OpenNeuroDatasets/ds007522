@@ -1,0 +1,3 @@
+filename	acq_time	scan_exclusion_reason
+dwi/sub-HML0068_ses-01_dwi.nii.gz	2023-02-04T08:04:47.792500	no_valid_rpe
+fmap/sub-HML0068_ses-01_dir-PA_epi.nii.gz	2023-02-04T08:13:51.450000	wrong_phase_encode_direction
