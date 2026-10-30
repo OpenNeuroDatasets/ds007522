@@ -1,0 +1,17 @@
+filename	acq_time
+func/sub-HML0194_ses-01_task-rest_bold.nii.gz	2022-10-23T08:49:13.932500
+anat/sub-HML0194_ses-01_rec-defaced_FLAIR.nii.gz	2022-10-23T09:00:29.547500
+anat/sub-HML0194_ses-01_rec-defaced_T1w.nii.gz	2022-10-23T09:06:14.487500
+anat/sub-HML0194_ses-01_rec-defaced_echo-1_part-mag_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-2_part-mag_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-3_part-mag_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-4_part-mag_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-5_part-mag_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-1_part-phase_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-2_part-phase_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-3_part-phase_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-4_part-phase_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_rec-defaced_echo-5_part-phase_T2starw.nii.gz	2022-10-23T09:12:20.000000
+anat/sub-HML0194_ses-01_acq-hippo_T2w.nii.gz	2022-10-23T09:21:29.417500
+perf/sub-HML0194_ses-01_acq-prod_m0scan.nii.gz	2022-10-23T09:26:56.815000
+perf/sub-HML0194_ses-01_acq-prod_asl.nii.gz	2022-10-23T09:28:20.292500
