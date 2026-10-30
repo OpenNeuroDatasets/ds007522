@@ -1,3 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	This session includes the old ASL protocol which included the MO as part of the scan. This ASL protocol has been dropped for the main study.	HML0048/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-prod_asl.json json file not found. | HML0048/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-prod_m0scan.json json file not found. |	Skyra	syngo MR E11
-ses-follow01	n/a	/nifti/BIDSQC-AACAZ/currjson/sub-HML0048_ses-follow01_acq-pcasl3000_dir-AP_m0scan.json::RepetitionTime is *DIFFERENT*: 5.6 5.64 |	MAGNETOM Skyra	syngo MR XA30
