@@ -1,3 +1,0 @@
-filename	acq_time	scan_exclusion_reason
-perf/sub-HML0301_ses-01_acq-prod_m0scan.nii.gz	2023-12-22T11:08:47.420000	no_valid_asl
-perf/sub-HML0301_ses-01_acq-prod_asl.nii.gz	2023-12-22T11:11:45.572500	wrong_phase_encode_direction

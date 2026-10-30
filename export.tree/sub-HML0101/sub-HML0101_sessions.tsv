@@ -1,3 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	6/X/2023 CPU: Resting state fMRI acquired in wrong direction. Need to schedule a second session to acquire rsFMRI in the right direction.	/nifti/BIDSQC-AACAZ/currjson/sub-HML0101_ses-01_task-rest_bold.json::PhaseEncodingDirection is *DIFFERENT*: j- j |	Skyra	syngo MR E11
-ses-follow02	RESCAN: due to X Jun 2025 RF Issue | PCASL_M0_3000PLD_noBS_AP obtained twice. Missing PCASL_M0_3000PLD_noBS_PA.	HML0101/nifti/BIDSQC-AACAZ/origjson/ses-FOLLOW001_acq-pcasl3000_dir-PA_m0scan.json json file not found. |	MAGNETOM Skyra	syngo MR XA30
