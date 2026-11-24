@@ -1,7 +1,0 @@
-filename	acq_time
-anat/sub-HML0720_ses-01_rec-defaced_T1w.nii.gz	2025-01-24T12:26:33.820000
-dwi/sub-HML0720_ses-01_dwi.nii.gz	2025-01-24T12:33:46.850000
-fmap/sub-HML0720_ses-01_dir-PA_epi.nii.gz	2025-01-24T12:42:23.260000
-func/sub-HML0720_ses-01_task-rest_bold.nii.gz	2025-01-24T12:45:11.360000
-perf/sub-HML0720_ses-01_acq-pcasl_asl.nii.gz	2025-01-24T12:55:31.040000
-perf/sub-HML0720_ses-01_acq-pcasl_m0scan.nii.gz	2025-01-24T13:02:03.420000

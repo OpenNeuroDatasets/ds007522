@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	From MR Technical Notes: | HighResHippo scan was cut off due to time constraint.	HML1326/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-hippo_T2w.json json file not found. | ses-SESSION001_dwi dimensions are *DIFFERENT*reference> 128:128:69:136current> 144:144:69:136 |	Ingenia Elition X	5.7.1

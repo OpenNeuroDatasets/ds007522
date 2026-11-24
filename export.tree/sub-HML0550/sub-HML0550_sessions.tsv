@@ -1,2 +1,0 @@
-session_id	session_notes	protocol_check	manufacturer_model	software_version
-ses-01	HighResHippocampus - slight change in sequence - | RepetitionTime is *DIFFERENT*: 4.56 4.83 | Dimensions are *DIFFERENT* | reference&gt; 448:448:33:1 | current&gt; 448:448:36:1	/nifti/BIDSQC-AACAZ/currjson/sub-HML0550_ses-01_acq-hippo_T2w.json::RepetitionTime is *DIFFERENT*: 4.56 4.83 | ses-SESSION001_acq-hippo_T2w dimensions are *DIFFERENT*reference> 448:448:33:1current> 448:448:36:1 |	Skyra	syngo MR E11
