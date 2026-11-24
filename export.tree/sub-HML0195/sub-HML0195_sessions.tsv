@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	&quot;AXIAL 3D PASL plus M0&quot; acquired inadvertently instead of &quot;PASL_PRODUCT_PLD-2750 MO&quot; and &quot;PASL_PRODUCT_PLD-2750&quot;.	HML0195/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-prod_asl.json json file not found. | HML0195/nifti/BIDSQC-AACAZ/origjson/ses-SESSION001_acq-prod_m0scan.json json file not found. |	Skyra	syngo MR E11

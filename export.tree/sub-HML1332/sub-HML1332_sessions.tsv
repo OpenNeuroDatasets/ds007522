@@ -1,0 +1,2 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	DWI RPE acquired in the wrong phase encoding direction - try to reschedule subject for a second session to acquire DWI correctly.	/nifti/BIDSQC-AACAZ/currjson/sub-HML1332_ses-01_dir-PA_epi.json::PhaseEncodingDirection is *DIFFERENT*: j j- |	MAGNETOM Skyra	syngo MR XA30

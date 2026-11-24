@@ -1,0 +1,17 @@
+filename	acq_time
+anat/sub-HML1332_ses-01_rec-defaced_T1w.nii.gz	2026-05-04T13:00:12.275000
+func/sub-HML1332_ses-01_task-rest_bold.nii.gz	2026-05-04T13:16:42.365000
+perf/sub-HML1332_ses-01_acq-prod_m0scan.nii.gz	2026-05-04T13:27:24.262500
+perf/sub-HML1332_ses-01_acq-prod_asl.nii.gz	2026-05-04T13:29:21.410000
+anat/sub-HML1332_ses-01_rec-defaced_FLAIR.nii.gz	2026-05-04T13:37:35.197500
+anat/sub-HML1332_ses-01_rec-defaced_echo-1_part-mag_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-1_part-phase_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-2_part-mag_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-2_part-phase_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-3_part-mag_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-3_part-phase_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-4_part-mag_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-4_part-phase_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-5_part-mag_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_rec-defaced_echo-5_part-phase_T2starw.nii.gz	2026-05-04T13:42:57.712500
+anat/sub-HML1332_ses-01_acq-hippo_T2w.nii.gz	2026-05-04T13:51:58.982500

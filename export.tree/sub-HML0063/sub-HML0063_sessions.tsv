@@ -1,0 +1,3 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	n/a	n/a	Skyra	syngo MR E11
+ses-follow01	Resting state scan not collected.	HML0063/nifti/BIDSQC-AACAZ/origjson/ses-FOLLOW001_task-rest_bold.json json file not found. |	MAGNETOM Skyra	syngo MR XA30

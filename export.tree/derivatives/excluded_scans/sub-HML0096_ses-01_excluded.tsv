@@ -1,0 +1,2 @@
+filename	acq_time	scan_exclusion_reason
+func/sub-HML0096_ses-01_task-rest_bold.nii.gz	2023-06-07T08:14:29.910000	wrong_phase_encode_direction

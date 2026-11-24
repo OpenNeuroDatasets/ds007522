@@ -1,0 +1,7 @@
+filename	acq_time
+anat/sub-HML1193_ses-01_rec-defaced_T1w.nii.gz	2026-01-01T12:52:59.877500
+dwi/sub-HML1193_ses-01_dwi.nii.gz	2026-01-01T12:58:46.740000
+fmap/sub-HML1193_ses-01_dir-PA_epi.nii.gz	2026-01-01T13:07:47.357500
+func/sub-HML1193_ses-01_task-rest_bold.nii.gz	2026-01-01T13:08:50.697500
+perf/sub-HML1193_ses-01_acq-prod_m0scan.nii.gz	2026-01-01T13:19:12.485000
+perf/sub-HML1193_ses-01_acq-prod_asl.nii.gz	2026-01-01T13:21:32.220000

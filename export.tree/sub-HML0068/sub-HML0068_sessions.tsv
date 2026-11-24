@@ -1,0 +1,3 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	DTI_MB_3SHELL_RPE acquired in the wrong direction inadvertently. | DTI and DTI Shell collected again on 2/X/2023 in another session - wuJMFAA2_MR_2 (HML0068_MR_SESSION002)	/nifti/BIDSQC-AACAZ/currjson/sub-HML0068_ses-01_acq-fmri_dir-PA_epi.json::PhaseEncodingDirection is *DIFFERENT*: j j- |	Skyra	syngo MR E11
+ses-follow01	n/a	n/a	MAGNETOM Skyra	syngo MR XA30

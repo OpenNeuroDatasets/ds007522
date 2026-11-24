@@ -1,0 +1,3 @@
+filename	acq_time	scan_exclusion_reason
+dwi/sub-HML0319_ses-follow01_dwi.nii.gz	2026-03-26T12:09:51.302500	no_valid_rpe
+fmap/sub-HML0319_ses-follow01_dir-PA_epi.nii.gz	2026-03-26T12:19:23.317500	wrong_phase_encode_direction

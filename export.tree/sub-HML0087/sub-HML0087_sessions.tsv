@@ -1,0 +1,3 @@
+session_id	session_notes	protocol_check	manufacturer_model	software_version
+ses-01	n/a	n/a	Skyra	syngo MR E11
+ses-follow01	PCASL 3000 MO collected twice in the same direction (AP) - we are missing PA direction	HML0087/nifti/BIDSQC-AACAZ/origjson/ses-FOLLOW001_acq-pcasl3000_dir-PA_m0scan.json json file not found. |	MAGNETOM Skyra	syngo MR XA30
