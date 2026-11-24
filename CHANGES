@@ -1,7 +1,8 @@
-3.0.1 2026-11-02
-  - Changed ages in participants.tsv to track the ages represented in the PAN demographics table more accurately.
+3.0.1 2026-11-24
+  - This is a patch release to provide information about using visit codes (and scan dates) to join MRI sessions to associated data.
+  - A new participants.tsv has been created that better tracks ages provided in the PAN Database Demographics table. 
   - 3 new subjects have been added bringing the total number to 1143 subjects.
-  - An additional 4 sessions (including 1 longitudinal follow-up sessions) have been added bringing the total number to 1266 sessions (of which there are now a total of 106 longitudinal sessions)
+  - An additional 4 sessions (including 1 longitudinal follow-up session) have been added bringing the total number to 1266 sessions (of which there are now a total of 106 longitudinal sessions).
 3.0.0 2026-10-30
   - Third public release of 3T MRI data for PAN study. This release covers more subjects than provided by the 3rd PAN Database release.
   - An additional 198 sessions (including 26 longitudinal follow-up sessions) have been added bringing the total number to 1262 sessions (of which there are now a total of 105 longitudinal sessions).
